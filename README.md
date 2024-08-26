@@ -18,8 +18,6 @@ After installing packages. You must go to your appwrite console and make a proje
 ![Screenshot 2024-08-26 194544](https://github.com/user-attachments/assets/de96c214-b2c5-4b0e-804e-6a364a3faa2a)
 
 
-![Screenshot 2024-08-26 194500](https://github.com/user-attachments/assets/5fe759c6-d20d-4af1-b084-97f19a9a2367)
-
 
 To run the editor you need to create your id in the Tinymce and copy the api key and paste it into ./src/components/RTE.jsx
 
