@@ -9,6 +9,9 @@
 - You can add Headings, paragraphs, and Images to the blog post.
 - Have read more blogs section also.
 
+
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 ## Installation Guide.
 
 Once you forked this repo. Make sure to run npm install command inside the folder to install all the package.
